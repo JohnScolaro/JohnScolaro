@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohnScolaro
+- 👀 I’m interested in machine learning and writing satisfying code. :)
+- 🌱 I’m currently learning the ins and outs of the Bluetooth protocol.
+- 💞️ I’m looking to collaborate on interesting machine learning and embedded device projects!
+- 📫 You can reach me at johnscolaro95@gmail.com
