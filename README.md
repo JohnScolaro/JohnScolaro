@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JohnScolaro
-- 👀 I’m interested in machine learning and writing satisfying code. :)
-- 🌱 I’m currently learning the ins and outs of the Bluetooth protocol.
-- 💞️ I’m looking to collaborate on interesting machine learning and embedded device projects!
+- 👀 I enjoy coding. :)
+- 🌱 I’m currently applying my python programming skills to solve complex Network Flow problems for Polymathian in Brisbane.
 - 📫 You can reach me at johnscolaro95@gmail.com
