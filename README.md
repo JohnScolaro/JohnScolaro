@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JohnScolaro
 - 👀 I enjoy coding. :)
-- 🌱 I’m currently applying my python programming skills to solve complex Network Flow problems for Polymathian in Brisbane.
-- 📫 You can reach me at johnscolaro95@gmail.com
+- 🌱 I’m currently applying my Python programming skillz in Queensland's Mining Sector for BHP in Brisbane.
+- 🌐 See what else I have worked on here: [johnscolaro.xyz](https://johnscolaro.xyz)
+- 📫 Feel free to email me at: johnscolaro95@gmail.com
