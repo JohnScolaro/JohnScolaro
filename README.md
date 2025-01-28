@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnScolaro
-- 👀 I enjoy coding. :)
-- 🌱 I’m currently applying my Python programming skillz in Queensland's Mining Sector for BHP in Brisbane.
+- 🐍 I enjoy writing Python
+- 🌱 I’m currently trading crypto as fast as possible for [Dark Forest Research](https://darkforestresearch.com/)
 - 🌐 See what else I have worked on here: [johnscolaro.xyz](https://johnscolaro.xyz)
 - 📫 Feel free to email me at: johnscolaro95@gmail.com
